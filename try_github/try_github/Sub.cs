@@ -8,5 +8,11 @@ namespace try_github
 {
     internal class Sub
     {
+
+        public int sub(int a, int b)
+        {
+            return a - b;
+        }
     }
+
 }
