@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace try_github
 {
-    internal class Sub
+    class Sub
     {
+
+        public int sub(int a, int b)
+        {
+            return a - b;
+        }
     }
 }
